@@ -1,0 +1,30 @@
+[20-Aug-2016 06:55:27 Etc/GMT] PHP Warning:  file_get_contents(http://...@gmail.com&amp;phone=9048153615&amp;busi_name=test): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/bookingwings/public_html/bookingengine/include/contact_mail.php on line 12
+[23-Aug-2016 06:34:22 Etc/GMT] PHP Warning:  file_get_contents(http://...@gmail.com&amp;phone=9048153615&amp;busi_name=test): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/bookingwings/public_html/bookingengine/include/contact_mail.php on line 12
+[23-Aug-2016 06:59:46 Etc/GMT] PHP Warning:  file_get_contents(http://www.bookingwings.com/bookingengine/user_mail.php?name=geethu): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/bookingwings/public_html/bookingengine/include/contact_mail.php on line 26
+[23-Aug-2016 07:02:06 Etc/GMT] PHP Warning:  file_get_contents(http://www.bookingwings.com/bookingengine/user_mail.php?name=geethu): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/bookingwings/public_html/bookingengine/include/contact_mail.php on line 26
+[23-Aug-2016 07:06:08 Etc/GMT] PHP Warning:  file_get_contents(http://www.bookingwings.com/bookingengine/user_mail.php?name=hjh): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/bookingwings/public_html/bookingengine/include/contact_mail.php on line 26
+[23-Aug-2016 07:08:54 Etc/GMT] PHP Warning:  file_get_contents(http://www.bookingwings.com/bookingengine/user_mail.php?name=hjh): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/bookingwings/public_html/bookingengine/include/contact_mail.php on line 26
+[23-Aug-2016 07:09:07 Etc/GMT] PHP Warning:  file_get_contents(http://www.bookingwings.com/bookingengine/user_mail.php?name=htutuy): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/bookingwings/public_html/bookingengine/include/contact_mail.php on line 26
+[23-Aug-2016 07:11:06 Etc/GMT] PHP Warning:  file_get_contents(http://www.bookingwings.com/bookingengine/user_mail.php?name=geethu): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/bookingwings/public_html/bookingengine/include/contact_mail.php on line 26
+[23-Aug-2016 07:13:36 Etc/GMT] PHP Warning:  file_get_contents(http://www.bookingwings.com/bookingengine/user_mail.php?name=geethu): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/bookingwings/public_html/bookingengine/include/contact_mail.php on line 26
+[23-Aug-2016 07:14:46 Etc/GMT] PHP Warning:  file_get_contents(http://www.bookingwings.com/bookingengine/user_mail.php?name=geethu): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/bookingwings/public_html/bookingengine/include/contact_mail.php on line 26
+[23-Aug-2016 07:15:02 Etc/GMT] PHP Warning:  file_get_contents(http://www.bookingwings.com/bookingengine/user_mail.php?name=geethu): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/bookingwings/public_html/bookingengine/include/contact_mail.php on line 26
+[23-Aug-2016 07:19:25 Etc/GMT] PHP Warning:  file_get_contents(http://www.bookingwings.com/bookingengine/user_mail.php?name=geethu): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/bookingwings/public_html/bookingengine/include/contact_mail.php on line 26
+[23-Aug-2016 07:21:54 Etc/GMT] PHP Warning:  file_get_contents(http://www.bookingwings.com/bookingengine/user_mail.php?name=geethu): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/bookingwings/public_html/bookingengine/include/contact_mail.php on line 26
+[23-Aug-2016 08:06:01 Etc/GMT] PHP Warning:  file_get_contents(http://www.bookingwings.com/bookingengine/user_mail.php?name=xxx): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/bookingwings/public_html/bookingengine/include/contact_mail.php on line 25
+[23-Aug-2016 08:09:13 Etc/GMT] PHP Warning:  file_get_contents(http://www.bookingwings.com/bookingengine/user_mail.php?name=anju): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/bookingwings/public_html/bookingengine/include/contact_mail.php on line 24

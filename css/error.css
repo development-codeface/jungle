@@ -1,0 +1,83 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,400italic,500,500italic,700,700italic,900,900italic);
+@import url(https://fonts.googleapis.com/css?family=Domine:400,700);
+
+
+
+
+
+.er_btn a:hover {
+  color: #fff;
+   background: #2087cb;
+
+}
+.margin_auto
+{
+	float:none !important;
+	margin:0 auto !important;
+}
+.logo-bok img
+{
+	    width: 20%;
+    margin-top: 22px;
+	
+}
+.logo-bok 
+{
+	text-align:center;
+}
+.er_btn a {
+  border: 2px solid #2087cb;
+ color: #1077BB;
+  display: inline-block;
+  font-family: domine;
+  font-size: 17px;
+  margin-top:18px;
+  padding: 13px 50px;
+  text-decoration: none !important;
+  transition: all 0.4s ease-in 0s;
+ 
+}
+
+.sub_t_e_r {
+    color: #2087cb;
+  font-family: domine;
+  font-size: 25px;
+      text-align: center;
+	 
+}
+.sub_t_e > span {
+  font-weight: bold;
+}
+.sub_t_e {
+  color: #545454;
+  font-family: "Domine";
+  font-size:45px;
+  font-weight: 500;
+  margin-bottom: 0;
+    margin-top: -70px;
+	    text-align: center;
+
+}
+.out-page{
+	    margin-top: 144px;
+       margin-left: -200px;
+}
+h3.er {
+      color: #2087cb;
+    font-size: 200px;
+    font-weight: bolder;
+    /* text-shadow: 0 2px 3px #2087CB; */
+       margin-top: -31px;
+    text-align: center;
+}
+.img-er img
+{
+	width:100%;
+}
+@media only screen and (max-width:991px)
+{
+	.out-page{
+	    margin-top:40px;
+       margin-left:0px;
+}
+}

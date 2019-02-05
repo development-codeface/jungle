@@ -1,0 +1,8 @@
+[09-Dec-2016 00:20:53 Etc/GMT] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/bookingwings/public_html/blog/wp-includes/SimplePie/Cache/Memcache.php on line 59
+[27-Dec-2016 23:59:05 Etc/GMT] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/bookingwings/public_html/blog/wp-includes/SimplePie/Cache/Memcache.php on line 59
+[09-Jan-2017 21:22:42 Etc/GMT] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/bookingwings/public_html/blog/wp-includes/SimplePie/Cache/Memcache.php on line 59
+[11-Jan-2017 07:43:03 Etc/GMT] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/bookingwings/public_html/blog/wp-includes/SimplePie/Cache/Memcache.php on line 59
+[13-Jan-2017 01:42:24 Etc/GMT] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/bookingwings/public_html/blog/wp-includes/SimplePie/Cache/Memcache.php on line 59
+[14-Jan-2017 12:34:08 Etc/GMT] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/bookingwings/public_html/blog/wp-includes/SimplePie/Cache/Memcache.php on line 59
+[14-Jan-2017 17:56:18 Etc/GMT] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/bookingwings/public_html/blog/wp-includes/SimplePie/Cache/Memcache.php on line 59
+[15-Jan-2017 06:43:09 Etc/GMT] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/bookingwings/public_html/blog/wp-includes/SimplePie/Cache/Memcache.php on line 59

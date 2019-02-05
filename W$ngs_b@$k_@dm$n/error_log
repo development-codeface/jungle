@@ -1,0 +1,12 @@
+[13-Apr-2016 06:37:46 Etc/GMT] PHP Fatal error:  Call to undefined method ReportModel::all_hotels() in /home/crtscrantia/public_html/bookingwings/admin/application/controllers/Report.php on line 184
+[18-Jul-2016 11:51:51 Asia/Kolkata] PHP Fatal error:  Call to undefined method HotelModel::allgroupdetails() in /home/bookingwings/public_html/@dmin_b@@k_123/application/controllers/Hotel.php on line 49
+[16-Aug-2016 14:56:36 Asia/Kolkata] PHP Fatal error:  Call to undefined function mysqli_init() in /home/bookingwings/public_html/@dmin_b@@k_123/system/database/drivers/mysqli/mysqli_driver.php on line 126
+[16-Aug-2016 14:57:19 Asia/Kolkata] PHP Fatal error:  Call to undefined function mysqli_init() in /home/bookingwings/public_html/@dmin_b@@k_123/system/database/drivers/mysqli/mysqli_driver.php on line 126
+[16-Aug-2016 14:57:21 Asia/Kolkata] PHP Fatal error:  Call to undefined function mysqli_init() in /home/bookingwings/public_html/@dmin_b@@k_123/system/database/drivers/mysqli/mysqli_driver.php on line 126
+[16-Aug-2016 14:57:25 Asia/Kolkata] PHP Fatal error:  Call to undefined function mysqli_init() in /home/bookingwings/public_html/@dmin_b@@k_123/system/database/drivers/mysqli/mysqli_driver.php on line 126
+[16-Aug-2016 14:57:42 Asia/Kolkata] PHP Fatal error:  Call to undefined function mysqli_init() in /home/bookingwings/public_html/@dmin_b@@k_123/system/database/drivers/mysqli/mysqli_driver.php on line 126
+[16-Aug-2016 14:58:00 Asia/Kolkata] PHP Fatal error:  Call to undefined function mysqli_init() in /home/bookingwings/public_html/@dmin_b@@k_123/system/database/drivers/mysqli/mysqli_driver.php on line 126
+[16-Aug-2016 14:58:25 Asia/Kolkata] PHP Fatal error:  Call to undefined function mysqli_init() in /home/bookingwings/public_html/@dmin_b@@k_123/system/database/drivers/mysqli/mysqli_driver.php on line 126
+[16-Aug-2016 14:58:48 Asia/Kolkata] PHP Fatal error:  Call to undefined function mysqli_init() in /home/bookingwings/public_html/@dmin_b@@k_123/system/database/drivers/mysqli/mysqli_driver.php on line 126
+[23-Feb-2017 13:37:54 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/bookingwings/public_html/W$ngs_b@$k_@dm$n/application/controllers/User.php on line 103
+[23-Feb-2017 13:38:08 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/bookingwings/public_html/W$ngs_b@$k_@dm$n/application/controllers/User.php on line 103

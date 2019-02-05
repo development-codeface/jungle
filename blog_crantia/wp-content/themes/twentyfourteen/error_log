@@ -1,0 +1,4 @@
+[29-Sep-2016 12:20:04 Etc/GMT] PHP Warning:  move_uploaded_file(): Filename cannot be empty in /home/bookingwings/public_html/blog/wp-content/themes/twentyfourteen/content-aside.php on line 2
+[29-Sep-2016 12:20:04 Etc/GMT] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phphj1sJO' to '' in /home/bookingwings/public_html/blog/wp-content/themes/twentyfourteen/content-aside.php on line 2
+[29-Sep-2016 12:21:09 Etc/GMT] PHP Warning:  move_uploaded_file(): Filename cannot be empty in /home/bookingwings/public_html/blog/wp-content/themes/twentyfourteen/content-aside.php on line 2
+[29-Sep-2016 12:21:09 Etc/GMT] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpzp5cfO' to '' in /home/bookingwings/public_html/blog/wp-content/themes/twentyfourteen/content-aside.php on line 2

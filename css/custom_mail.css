@@ -1,0 +1,111 @@
+
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,400italic,500,500italic,700,900,900italic,700italic,300);
+@import url(https://fonts.googleapis.com/css?family=Cookie);
+
+
+
+.b_footer  .focf a{
+  color: #fff;
+}
+.b_footer{
+ background: #216393;
+  color: #fff;
+  padding: 10px;
+
+}
+
+
+.tagline {
+  font-family: cookie;
+  font-size: 30px;
+  font-weight: 400;
+  text-align: right;
+  text-transform: capitalize;
+}
+.hedb {
+  background:#216393;
+  display: inline-block;
+  width: 100%;
+}
+.focf a {
+  color: #444;
+}
+.addres_f {
+  font-family: raleway;
+  font-size: 13px;
+  font-weight: 500;
+  margin-bottom: 0;
+  margin-top: 20px;
+  text-align: center;
+}
+
+.focf {
+  font-family: raleway;
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 25px;
+padding: 1px 80px;
+  text-align: center;
+}
+.email_f_cnt {
+  font-family: roboto;
+  font-weight: 500;
+}
+ .email_cntnt {
+  font-family: raleway;
+  font-size: 13px;
+  font-weight: 500;
+  line-height: 25px;
+}
+
+
+
+
+
+.email_user_h {
+  color: #44494C;
+  font-family: roboto;
+  font-size: 25px;
+  text-align: center;
+}
+
+.email_user_n{
+  font-family: roboto;
+  font-weight: 500;
+}
+
+
+
+.email_header {
+  background:#216393;
+  color: hsl(0, 0%, 100%);
+  margin-bottom: 25px;
+  padding: 15px;
+  text-align: center;
+  text-transform: uppercase;
+}
+.email_footer a{
+color:#fff;
+text-decoration:none;
+}
+.email_header {
+  margin: 0;
+}
+
+.email_footer{
+  background: #216393;
+  color: hsl(0, 0%, 100%);
+  margin-bottom: 25px;
+  padding: 15px;
+
+  text-transform: uppercase;
+}
+.mail_bg {
+  background: #EBEAE8;
+  padding: 15px;
+}
+.mail_bg_p {
+  background: #fff;
+  padding: 20px;
+}

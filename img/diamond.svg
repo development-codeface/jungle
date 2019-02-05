@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="22px" height="21px" viewBox="0 0 22 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.2 (15857) - http://www.bohemiancoding.com/sketch -->
+    <title>Oval 1 + Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Oval-1-+-Shape" sketch:type="MSLayerGroup">
+            <circle id="Oval-1" fill-opacity="0.417572464" fill="#EE4119" sketch:type="MSShapeGroup" cx="13" cy="12" r="9"></circle>
+            <path d="M18.9,5.2 L15.9,1.2 C15.823,1.097 15.709,1.028 15.582,1.007 L9.582,0.007 C9.528,-0.002 9.472,-0.002 9.418,0.007 L3.418,1.007 C3.291,1.028 3.177,1.097 3.1,1.2 L0.1,5.2 C-0.043,5.391 -0.031,5.657 0.128,5.834 L9.128,15.834 C9.223,15.939 9.358,16 9.5,16 C9.642,16 9.777,15.94 9.872,15.834 L18.872,5.834 C19.032,5.656 19.044,5.391 18.9,5.2 L18.9,5.2 Z M12.786,5 L9.5,14.037 L6.214,5 L12.786,5 L12.786,5 Z M6.707,4 L9.5,1.207 L12.293,4 L6.707,4 L6.707,4 Z M10.957,1.25 L14.655,1.866 L13.422,3.715 L10.956,1.25 L10.957,1.25 Z M5.578,3.715 L4.345,1.866 L8.043,1.25 L5.578,3.715 L5.578,3.715 Z M4.67,4.156 L1.685,4.753 L3.476,2.365 L4.67,4.156 L4.67,4.156 Z M5.177,5.075 L8.151,13.254 L1.459,5.818 L5.177,5.074 L5.177,5.075 Z M13.823,5.075 L17.541,5.819 L10.849,13.255 L13.823,5.076 L13.823,5.075 Z M14.33,4.156 L15.524,2.365 L17.315,4.753 L14.33,4.156 L14.33,4.156 Z" id="Shape" fill="#525252" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

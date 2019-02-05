@@ -1,0 +1,264 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:400,300,300italic,400italic,700,700italic,900,900italic);
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+
+
+
+
+
+
+
+
+
+
+
+table.detailst td,table.detailst  th {
+  border: 1px solid #ccc;
+}
+@media(min-width:991px) and (max-width:3000px){
+
+.hotel_Ingo   .logo_h {
+  margin-top: -75px;
+}
+}
+
+
+.pb_cs {
+  text-align: right;
+}
+
+#a > img {
+  width: 100%;
+}
+
+
+.container.container_cus{
+width:800px;
+
+}
+
+.inv2 {
+  font-family: lato;
+  font-size: 20px;
+  text-transform: uppercase;
+   font-weight: bold;
+}
+.bookingidc {
+  font-family: oswald;
+  font-size: 20px;
+  margin: 5px 15px 0 0;
+}
+
+#a{
+text-align:center;
+}
+address {
+  font-family: lato;
+}
+.hotl_id {
+  font-family: lato;
+  font-weight: 600;
+  margin-bottom: 0;
+  margin-top: 10px;
+}
+.newb {
+  color:#444;
+  font-family: lato;
+  font-size: 13px;
+}
+h6.newt {
+  color:#444;
+  font-family: lato;
+  font-size: 16px;
+  margin: 16px 0 0;
+  font-weight: 600;
+}
+h2.inv {
+color:#444;
+font-family: oswald;
+font-size: 36px;
+font-weight: 400;
+margin: 13px 0;
+text-transform: uppercase;
+
+}
+.logo_h {
+
+  text-align: center;
+}
+.bluebbcus6.pr {
+background: hsl(0, 0%, 97%) none repeat scroll 0 0;
+border-top: 1px solid hsl(0, 0%, 80%);
+color: hsl(0, 0%, 0%);
+font-family: lato;
+font-size: 12px;
+padding: 10px 0;
+text-align: center;
+}
+.botm_li > li {
+  list-style: outside none circle;
+  margin-bottom: 5px;
+}
+.ens {
+  font-style: italic;
+  font-weight: bold;
+}
+.botm_li {
+  list-style: outside none none;
+  margin: 20px 0;
+}
+
+.bluebbcus5.pr {
+  background:#fbfbfb;
+  color:#000;
+  font-family: lato;
+  list-style: outside none none;
+
+  border-top:1px dotted #ccc;
+}
+
+.price {
+  background: #f4f4f4;
+  font-family: lato;
+  font-size: 27px;
+  font-weight: bolder;
+  padding: 58px 9px;
+  text-align: center;
+}
+.subt2 {
+  line-height: 23px;
+}
+
+.btm_c {
+  background: #FFFFFF;
+  font-family: lato;
+  padding: 10px 0;
+}
+.com_bottom  img{
+width:100%;
+}
+
+.canc {
+background: hsl(0, 0%, 100%) none repeat scroll 0 0;
+border-bottom: 1px dotted hsl(0, 0%, 80%);
+border-top: 1px dotted hsl(0, 0%, 80%);
+font-family: lato;
+line-height: 25px;
+padding: 15px 30px;
+}
+.cant > span {
+  background:#eeeeee;
+  color: #000;
+  font-family: lato;
+  font-weight: 600;
+  padding: 10px 25px;
+}
+.bluebbcus3.pr {
+  padding: 0;
+}
+
+
+ tr:nth-child(2n+1){
+   background-color: #fff;
+ }
+
+table.detailst td {
+  padding: 10px;
+}
+
+
+table.detailst th {
+  background: #EEEEEE;
+  font-family: lato;
+  padding: 10px;
+  
+}
+.detailst{
+width:100%; font-family: lato;
+}
+
+
+div.bluebbcus2 {
+
+  padding: 0 20px;
+     margin-bottom: 50px;
+}
+
+div .li_c {
+background: hsl(0, 0%, 100%) none repeat scroll 0 0;
+border: 2px solid hsl(0, 0%, 93%);
+padding: 0;
+}
+.ico_c {
+  background: #EEEEEE;
+  color:#444;
+  padding: 7px;
+  text-align: center;
+}
+.cus-dt{
+  font-family: lato;
+ 
+  padding: 7px;
+}
+.cus-dt2{
+padding: 7px; font-family: lato;
+ font-weight: bolder;
+}
+
+
+
+
+
+.customer_details li {
+  list-style: outside none none;
+  margin-bottom: 7px;
+}
+
+.hotel_Ingo {
+  margin-top: 30px;
+}
+
+.logo_h img{
+width:100px;
+}
+
+.pr.bluebbe {
+  padding: 0;
+}
+.bluebbcus{
+  padding-top: 40px;
+background-color:#fbfbfb;
+}
+.bluebbe{
+background-color:#fbfbfb;
+ border-bottom: 1px dotted hsl(0, 0%, 80%);
+}
+
+#a {
+    position: relative;
+
+    padding: 10px 20px;
+    font-size: 20px;
+    position: relative;
+    
+    color: #2E8DEF;
+    background: #fff;
+ 
+}
+/* #a:after {
+    content: " ";
+    position: absolute;
+    display: block;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    
+    background: #333333;
+    
+    
+    transform-origin: bottom left;
+    -ms-transform: skew(-30deg, 0deg);
+    -webkit-transform: skew(-30deg, 0deg);
+    transform: skew(-30deg, 0deg);
+} */
