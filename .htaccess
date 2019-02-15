@@ -1,9 +1,8 @@
 <IfModule mod_rewrite.c>
   RewriteEngine On
   #RewriteBase /
-
-RewriteCond %{HTTP_HOST}  [NC]
-RewriteRule ^(.*)$  [L,R=301] 
+RewriteCond %{HTTP_HOST} !^localhost$ [NC]
+RewriteRule ^(.*)$ http://localhost/jungle/$1 [L,R=301] 
 
   RewriteCond %{REQUEST_FILENAME} !-f
   RewriteRule ^ index.php [QSA,L]

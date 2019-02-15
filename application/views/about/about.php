@@ -1,216 +1,489 @@
- <!DOCTYPE html>
-<html>
+<!doctype html>
+<html class="no-js" lang=""> 
+
+
 <head>
-<meta charset="utf-8">
-<meta content="IE=edge" http-equiv="X-UA-Compatible">
-<meta content="width=device-width, initial-scale=1" name="viewport">
-<meta content="One of the best online hotel booking website provides great deals, discounts and offers – book budget hotels, star hotels, resorts and homestay in Kerala." name="description">
-<meta content="" name="author">
-<title>Booking Wings - Best Online Hotel Booking Website</title>
-<link rel="stylesheet" href="<?php echo base_url();?>css/bootstrap.css">
-<link rel="stylesheet" href="<?php echo base_url();?>css/main.css">
-<link rel="stylesheet" href="<?php echo base_url();?>css/social_buttons.css">
-<link rel="stylesheet" href="<?php echo base_url();?>css/bootstrap-datepicker.css">
-<link rel="stylesheet" href="<?php echo base_url();?>css/custom.css">
-<link href="<?php echo base_url();?>css/owl.carousel.css" rel="stylesheet">
-<link href="<?php echo base_url();?>assets/css/owl.theme.css" rel="stylesheet">
-<link rel="stylesheet" href="<?php echo base_url();?>css/plugins/morris.css">
-<link type="text/css" rel="stylesheet" href="<?php echo base_url();?>font-awesome-4.4.0/css/font-awesome.min.css">
-
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-80233127-1', 'auto');
-  ga('send', 'pageview');
-
-</script>
-
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Jungle Clube</title>
+	<meta name="description" content="">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="apple-touch-icon" href="apple-touch-icon.png">
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<link rel="stylesheet" href="css/normalize.css">
+	<link rel="stylesheet" href="css/font-awesome.min.css">
+	<link rel="stylesheet" href="css/icomoon.css">
+	<link rel="stylesheet" href="css/owl.carousel.css">
+	<link rel="stylesheet" href="css/bootstrap-select.css">
+	<link rel="stylesheet" href="css/scrollbar.css">
+	<link rel="stylesheet" href="css/jquery.mmenu.all.css">
+	<link rel="stylesheet" href="css/prettyPhoto.css">
+	<link rel="stylesheet" href="css/transitions.css">
+	<link rel="stylesheet" href="css/main.css">
+	<link rel="stylesheet" href="css/color.css">
+	<link rel="stylesheet" href="css/responsive.css">
+	<script src="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
 </head>
-
 <body>
-<?php $this->load->view('layout/header');?>
 	
-	
-	<div id="page-wrapper">
-	<?php $this->load->view('layout/menu');?>
-		<div class="img_block_abt">
-			<div class="opac">
-			<h2 class="img_title_abt">About Our Company</h2>
-			<p class="img_abt_content">Brings to your fingertips all that you need to travel easy, fast and safe.</p>
-		</div>
-		</div>
-	
-		
-		<div class="container">
-			
-			<div class=" col-md-12 about_us_block">
-						
-<h1>
-<small>Travel Easy, Fast and Safe</small>
-BOOKINGWINGS.COM
-</h1>
-			
-			
-			
-			
-			  <div class="container">
-    <div class="more" id="more1">		
-			Booking wings.com is a concerted effort by a group of travel enthusiasts by Aman Hospitality Solutions to help other travel buffs and also to make travelling easier for the new bees. The possibility of waking up in your bedroom in your home town, having breakfast in another state, sightseeing in another country and going to bed in another continent is very much possible.
-<br>			
-<br>			
- When the time are changing at a racing pace; the needs, requirements and amenities should also be equipped enough to cater to these changes.  Bookingwings.com brings to your fingertips all that you need to travel easy, fast and safe. We focus on the travel destinations and locations in and around the Indian-subcontinent, while foreign destinations are not left behind. Kerala destinations clubbed with spa tourism, Ayurveda tourism and wellness tourism are our strong forte. <br>			
-<br>
-Joining hands with other leading travel consultants from around the world, Bookingwings.com is the pit stop to realise all your travel dreams and to focus and analyse the intricacies that the tourism sector offers to the customers, from around the world. At the end of the day, each journey is a destination— destination of relishing, rejuvenating and reliving. </div>
-    <div class="btn" for="more1">
-        <p class="btn_text">Read More</p></div>
-</div>
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-	
-				</div>
-			
-			</div>
-	
-		
-		
-		
-			<div class="img_block_abt_block2">
+	<?php $this->load->view('layout/header');?>
+		</header>
+		<!--************************************
+				Header End
+		*************************************-->
+		<!--************************************
+				Inner Banner Start
+		*************************************-->
+		<section class="tg-parallax tg-innerbanner" data-appear-top-offset="600" data-parallax="scroll" data-image-src="img/parallax/bgparallax-05.jpg">
+			<div class="tg-sectionspace tg-haslayout">
 				<div class="container">
-			<!--<div class="div_block_abt_cus col-md-3">
-				<img src="img/book.svg">
-			<h2 class="img_title_abt3">Management </h2>
-			<p class="img_abt_content3">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the</p>
-		</div>-->
-	
-				<div class="div_block_abt_cus col-md-4">
-				<img src="img/rocket.svg">
-			<h2 class="img_title_abt3">Mission</h2>
-			<p class="img_abt_content3">To offer a state-of-the-art travel experience aided with the pleasure of wellness coupled with luxury.</p>
-		</div>
-				<div class="div_block_abt_cus col-md-4">
-				<img src="img/layers.svg">
-			<h2 class="img_title_abt3">Vision </h2>
-			<p class="img_abt_content3">To breathe in life into the tourism sector by creating a space for the tourists to make their travel dreams come true with the aid of our expertise in panache like never before. </p>
-		</div>
-					<div class="div_block_abt_cus col-md-4">
-				<img src="img/diamond.svg">
-			<h2 class="img_title_abt3">Goals </h2>
-			<p class="img_abt_content3">To be the leader in the million dollar industry by serving customers like kings and offering innovative travel packages at affordable rates making travelling possible for one and all. </p>
-		</div>
-		
-		</div>
-		</div>
-		
-		
-		<div class="abt_block5">
-			<div class="container">
-			
-			
-			<div class="abt_center_title_block2">
-				
-				<h1>
-<small> Benefits for our </small>
-customers / property owning partners
-</h1>
-				
+					<div class="row">
+						<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+							<h1>About Us</h1>
+							<h2>Donec id elit non mi porta gravida at eget metus</h2>
+							<ol class="tg-breadcrumb">
+								<li><a href="index.html">Home</a></li>
+								<li class="tg-active">about us</li>
+							</ol>
+						</div>
+					</div>
 				</div>
-			
-			<div class="col-md-6 col-sm-12 col-xs-12 g_img ">
-				<img src="<?php echo base_url();?>img/travel-image-skyconnect_bookingchair.png">
+			</div>
+		</section>
+		<!--************************************
+				Inner Banner End
+		*************************************-->
+		<!--************************************
+				Main Start
+		*************************************-->
+		<main id="tg-main" class="tg-main tg-haslayout">
+			<!--************************************
+					Features Start
+			*************************************-->
+			<section class="tg-sectionspace tg-haslayout">
+				<div class="container">
+					<div class="row">
+						<div class="tg-features">
+							<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+								<div class="tg-feature">
+									<div class="tg-featuretitle">
+										<h2><span>01</span><a href="javascript:void(0);">Luxury Hotels</a></h2>
+									</div>
+									<div class="tg-description">
+										<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh tempor cum soluta nobis consectetuer nihil imperdiet doming...</p>
+									</div>
+								</div>
+							</div>
+							<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+								<div class="tg-feature">
+									<div class="tg-featuretitle">
+										<h2><span>02</span><a href="javascript:void(0);">Tourist Guide</a></h2>
+									</div>
+									<div class="tg-description">
+										<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh tempor cum soluta nobis consectetuer nihil imperdiet doming...</p>
+									</div>
+								</div>
+							</div>
+							<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+								<div class="tg-feature">
+									<div class="tg-featuretitle">
+										<h2><span>03</span><a href="javascript:void(0);">Flights Tickets</a></h2>
+									</div>
+									<div class="tg-description">
+										<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh tempor cum soluta nobis consectetuer nihil imperdiet doming...</p>
+									</div>
+								</div>
+							</div>
+							<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+								<div class="tg-feature">
+									<div class="tg-featuretitle">
+										<h2><span>04</span><a href="javascript:void(0);">Luxury Hotels</a></h2>
+									</div>
+									<div class="tg-description">
+										<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh tempor cum soluta nobis consectetuer nihil imperdiet doming...</p>
+									</div>
+								</div>
+							</div>
+							<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+								<div class="tg-feature">
+									<div class="tg-featuretitle">
+										<h2><span>05</span><a href="javascript:void(0);">Tourist Guide</a></h2>
+									</div>
+									<div class="tg-description">
+										<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh tempor cum soluta nobis consectetuer nihil imperdiet doming...</p>
+									</div>
+								</div>
+							</div>
+							<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+								<div class="tg-feature">
+									<div class="tg-featuretitle">
+										<h2><span>06</span><a href="javascript:void(0);">Flights Tickets</a></h2>
+									</div>
+									<div class="tg-description">
+										<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh tempor cum soluta nobis consectetuer nihil imperdiet doming...</p>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
 				</div>
-		
-		<div class="col-md-6">
+			</section>
+			<!--************************************
+					Features End
+			*************************************-->
+
 			
+			<!--************************************
+					Call To Action Start
+			*************************************-->
 			
-			
-		<ul class="abt_list_page">
-			
-			<li><span class="bold_letter"><i class="fa fa-check-square-o"></i> Best Offers:</span>
-				 Booking wings brings the best of offers in market under one roof, 
-				making it possible for our customers to choose the right one that suits their needs and budget.
-			</li>
-			<li><span class="bold_letter"><i class="fa fa-check-square-o"></i> Lowest Rates</span>
-				We take the extra effort to make sure that our customers are given luxury services at the lowest rates. 
-				We bet that you won't find services cheaper than this elsewhere.
-			</li>
-			<li><span class="bold_letter"><i class="fa fa-check-square-o"></i> Multiple services:</span>
-				 Though it is the travel and hospitality services that we focus on, 
-				Booking wings will also offer allied and myriad services giving customers a pit stop for multiple reasons.
-			</li>
-			<li><span class="bold_letter"><i class="fa fa-check-square-o"></i> Free of cost services:</span>
-				 And what's best. Booking wings services are absolutely free of cost and are aimed only at the comforts of our customers more than anything else.
-			</li>
-			</ul>
+			<section data-appear-top-offset="600"  >
+				<div class=" tg-haslayout off">
+					<div class="container">
+						<div class="row">
+							<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+								<div class="tg-calltoaction">
+									
+									<h2>Get 10% Off on your Next Travel</h2>
+									<div class="tg-pattern off_pattern"><img src="img/patternw.png" alt="image destination"></div>
+									<div class="tg-description off_desc"><p>Travel between 22 April to 21 May and get existing offers along with a sure 10% cash discount</p></div>
+									<a class="tg-btn off_butt" href="#"><span>Explore Tour</span></a>
+								</div>
+							</div>
+						</div>
+					</div>
 				</div>
-		</div>
+			</section>
+			<!--************************************
+					Call To Action End
+			*************************************-->
+
+
+
+			
+			<!--************************************
+					About Us Start
+			*************************************-->
+			<section class="tg-aboutus">
+				<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+					<div class="row">
+						<figure data-vide-bg="poster: img/aboutus/img-01.jpg" data-vide-options="position: 0% 50%"></figure>
+					</div>
+				</div>
+				<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+					<div class="row">
+						<div class="tg-textbox">
+							<div class="tg-sectiontitle">
+								<h2>A Little About Us</h2>
+							</div>
+							<div class="tg-description">
+								<p>when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.</p>
+								<p>Electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 pull-right">
+					<div class="row">
+						<figure data-vide-bg="poster: img/aboutus/img-02.jpg" data-vide-options="position: 0% 50%"></figure>
+					</div>
+				</div>
+				<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 pull-left">
+					<div class="row">
+						<div class="tg-textbox">
+							<div class="tg-sectiontitle">
+								<h2>A Little About Us</h2>
+							</div>
+							<div class="tg-description">
+								<p>when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.</p>
+								<p>Electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+			<!--************************************
+					About Us End
+			*************************************-->
 		
-		</div>
-		
+			<!--************************************
+					Our Partners Start
+			*************************************-->
+			
+
+
+
+			
+			<!--************************************
+					Our Partners End
+			*************************************-->
+		</main>
+		<!--************************************
+				Main End
+		*************************************-->
+		<!--************************************
+				Footer Start
+		*************************************-->
+		<footer id="tg-footer" class="tg-footer tg-haslayout">
+			<div class="tg-fourcolumns">
+				<div class="container">
+					<div class="row">
+						<div class="col-xs-6 col-sm-6 col-md-3 col-lg-3">
+							<div class="tg-footercolumn tg-widget tg-widgettext">
+								<div class="tg-widgettitle">
+									<h3>About jungle club</h3>
+								</div>
+								<div class="tg-widgetcontent">
+									<div class="tg-description">
+										<p>Nunc cursus liero purs ac cogue arcu cursus ut sed vitae pulvinar massaidp nequetiam lore elerisque</p>
+									</div>
+									<span>1-800-321-6543</span>
+									<a href="mailto:info@travlu.com">info@jungleclube.com</a>
+									<ul class="tg-socialicons tg-socialiconsvtwo">
+										<li><a href="javascript:void(0);"><i class="icon-facebook-logo-outline"></i></a></li>
+										<li><a href="javascript:void(0);"><i class="icon-instagram-social-outlined-logo"></i></a></li>
+										<li><a href="javascript:void(0);"><i class="icon-twitter-social-outlined-logo"></i></a></li>
+									</ul>
+								</div>
+							</div>
+						</div>
+						<div class="col-xs-6 col-sm-6 col-md-3 col-lg-3">
+							<div class="tg-footercolumn tg-widget tg-widgettravelunews">
+								<div class="tg-widgettitle">
+									<h3>Jungle club News</h3>
+								</div>
+								<div class="tg-widgetcontent">
+									<ul>
+										<li>
+											<figure>
+												<a href="javascript:void(0);"><img src="img/thumbnail/img-01.jpg" alt="image destinations"></a>
+											</figure>
+											<div class="tg-newcontent">
+												<h4><a href="javascript:void(0);">Bungee Jumping Trip</a></h4>
+												<div class="tg-description">
+													<p>Nunc cursus libero purus congue arcu vitae pulvinar</p>
+												</div>
+												<time datetime="2017-06-06">Feb 22, 2017</time>
+											</div>
+										</li>
+										<li>
+											<figure>
+												<a href="javascript:void(0);"><img src="img/thumbnail/img-02.jpg" alt="image destinations"></a>
+											</figure>
+											<div class="tg-newcontent">
+												<h4><a href="javascript:void(0);">Trip to White Castle</a></h4>
+												<div class="tg-description">
+													<p>Nunc cursus libero purus congue arcu vitae pulvinar</p>
+												</div>
+												<time datetime="2017-06-06">Feb 22, 2017</time>
+											</div>
+										</li>
+									</ul>
+								</div>
+							</div>
+						</div>
+						<div class="col-xs-6 col-sm-6 col-md-3 col-lg-3">
+							<div class="tg-footercolumn tg-widget tg-widgetdestinations">
+								<div class="tg-widgettitle">
+									<h3>Top Destinations</h3>
+								</div>
+								<div class="tg-widgetcontent">
+									<ul>
+										<li><a href="javascript:void(0);">Bayonne, Melbourne</a></li>
+										<li><a href="javascript:void(0);">Greenville, New Jersey</a></li>
+										<li><a href="javascript:void(0);">The Heights, London</a></li>
+										<li><a href="javascript:void(0);">West Side, New York</a></li>
+										<li><a href="javascript:void(0);">Upper East Side, New York</a></li>
+									</ul>
+								</div>
+							</div>
+						</div>
+						<div class="col-xs-6 col-sm-6 col-md-3 col-lg-3">
+							<div class="tg-footercolumn tg-widget tg-widgetnewsletter">
+								<div class="tg-widgettitle">
+									<h3>Newsletter</h3>
+								</div>
+								<div class="tg-widgetcontent">
+									<div class="tg-description"><p>Sign up for our mailing list to get latest updates and offers</p></div>
+									<form class="tg-formtheme tg-formnewsletter">
+										<fieldset>
+											<input type="email" name="email" class="form-control" placeholder="Your Email">
+											<button type="submit"><img src="img/icons/icon-08.png" alt="image destinations"></button>
+										</fieldset>
+									</form>
+									<span>We respect your privacy</span>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="tg-footerbar">
+				<div class="container">
+					<div class="row">
+						<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+							<p>Copyright &copy; 2019 Jungleclube. All  rights reserved</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</footer>
+		<!--************************************
+				Footer End
+		*************************************-->
 	</div>
-	
-	
-	
-	<?php $this -> load -> view('layout/footer'); ?>
-
-
-
-	
-	
-	
-
+	<!--************************************
+			Wrapper End
+	*************************************-->
+	<!--************************************
+			Search Start
+	*************************************-->
+	<div id="tg-search" class="tg-search">
+		<button type="button" class="close"><i class="icon-cross"></i></button>
+		<form>
+			<fieldset>
+				<div class="form-group">
+					<input type="search" name="search" class="form-control" value="" placeholder="search here">
+					<button type="submit" class="tg-btn"><span class="icon-search2"></span></button>
+				</div>
+			</fieldset>
+		</form>
+		<ul class="tg-destinations">
+			<li>
+				<a href="javascript:void(0);">
+					<h3>Europe</h3>
+					<em>(05)</em>
+				</a>
+			</li>
+			<li>
+				<a href="javascript:void(0);">
+					<h3>Africa</h3>
+					<em>(15)</em>
+				</a>
+			</li>
+			<li>
+				<a href="javascript:void(0);">
+					<h3>Asia</h3>
+					<em>(12)</em>
+				</a>
+			</li>
+			<li>
+				<a href="javascript:void(0);">
+					<h3>Oceania</h3>
+					<em>(02)</em>
+				</a>
+			</li>
+			<li>
+				<a href="javascript:void(0);">
+					<h3>North America</h3>
+					<em>(08)</em>
+				</a>
+			</li>
+		</ul>
+	</div>
+	<!--************************************
+			Search End
+	*************************************-->
+	<!--************************************
+			Login Singup Start
+	*************************************-->
+	<div id="tg-loginsingup" class="tg-loginsingup" data-vide-bg="poster: img/singup-img.jpg" data-vide-options="position: 0% 50%">
+		<div class="tg-contentarea tg-themescrollbar">
+			<div class="tg-scrollbar">
+				<button type="button" class="close">x</button>
+				<div class="tg-logincontent">
+					<nav id="tg-loginnav" class="tg-loginnav">
+						<ul>
+							<li><a href="#">About Us</a></li>
+							<li><a href="#">Contact Us</a></li>
+							<li><a href="#">My Account</a></li>
+							<li><a href="#">My Wishlist</a></li>
+						</ul>
+					</nav>
+					<div class="tg-themetabs">
+						<ul class="tg-navtbs" role="tablist">
+							<li role="presentation" class="active"><a href="#home" data-toggle="tab">Already Registered</a></li>
+							<li role="presentation"><a href="#profile" data-toggle="tab">New to Travleu ?</a></li>
+						</ul>
+						<div class="tg-tabcontent tab-content">
+							<div role="tabpanel" class="tab-pane active fade in" id="home">
+								<form class="tg-formtheme tg-formlogin">
+									<fieldset>
+										<div class="form-group">
+											<label>Name or Email <sup>*</sup></label>
+											<input type="text" name="firstname" class="form-control" placeholder="">
+										</div>
+										<div class="form-group">
+											<label>Password <sup>*</sup></label>
+											<input type="password" name="password" class="form-control" placeholder="">
+										</div>
+										<div class="form-group">
+											<div class="tg-checkbox">
+												<input type="checkbox" name="remember" id="rememberpass">
+												<label for="rememberpass">Remember Me</label>
+											</div>
+											<span><a href="#">Lost your password?</a></span>
+										</div>
+										<button class="tg-btn tg-btn-lg"><span>update profile</span></button>
+									</fieldset>
+								</form>
+							</div>
+							<div role="tabpanel" class="tab-pane fade" id="profile">
+								<form class="tg-formtheme tg-formlogin">
+									<fieldset>
+										<div class="form-group">
+											<label>Name or Email <sup>*</sup></label>
+											<input type="text" name="firstname" class="form-control" placeholder="">
+										</div>
+										<div class="form-group">
+											<label>Password <sup>*</sup></label>
+											<input type="password" name="password" class="form-control" placeholder="">
+										</div>
+										<div class="form-group">
+											<div class="tg-checkbox">
+												<input type="checkbox" name="remember" id="remember">
+												<label for="remember">Remember Me</label>
+											</div>
+											<span><a href="#">Lost your password?</a></span>
+										</div>
+										<button class="tg-btn tg-btn-lg"><span>update profile</span></button>
+									</fieldset>
+								</form>
+							</div>
+						</div>
+					</div>
+					<div class="tg-shareor"><span>or</span></div>
+					<div class="tg-signupwith">
+						<h2>Sign in With...</h2>
+						<ul class="tg-sharesocialicon">
+							<li class="tg-facebook"><a href="#"><i class="icon-facebook-1"></i><span>Facebook</span></a></li>
+							<li class="tg-twitter"><a href="#"><i class="icon-twitter-1"></i><span>Twitter</span></a></li>
+							<li class="tg-googleplus"><a href="#"><i class="icon-google4"></i><span>Google+</span></a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!--************************************
+			Login Singup End
+	*************************************-->
+	<script src="js/vendor/jquery-library.js"></script>
+	<script src="js/vendor/bootstrap.min.js"></script>
+	<script src="https://maps.google.com/maps/api/js?key=AIzaSyCR-KEWAVCn52mSdeVeTqZjtqbmVJyfSus&amp;language=en"></script>
+	<script src="js/bootstrap-select.min.js"></script>
+	<script src="js/jquery-scrolltofixed.js"></script>
+	<script src="js/owl.carousel.min.js"></script>
+	<script src="js/jquery.mmenu.all.js"></script>
+	<script src="js/packery.pkgd.min.js"></script>
+	<script src="js/jquery.vide.min.js"></script>
+	<script src="js/scrollbar.min.js"></script>
+	<script src="js/prettyPhoto.js"></script>
+	<script src="js/countdown.js"></script>
+	<script src="js/parallax.js"></script>
+	<script src="js/gmap3.js"></script>
+	<script src="js/main.js"></script>
 </body>
 
-	
-  <script src="<?php echo base_url();?>js/jquery-1.11.3.min.js"></script>
-  <script src="<?php echo base_url();?>js/bootstrap.min.js"></script>
-	
 
-<script type="text/javascript" src="<?php echo base_url();?>js/jquery.validate.min.js"></script>
-      <script src="<?php echo base_url();?>js/validation.js"></script>
-        <script src="<?php echo base_url();?>js/login.js"></script>
-
-
-
-
-
-<script type="text/javascript">//<![CDATA[
-$(window).load(function(){
-$(document).ready(function () {
-    $('.btn').data("expanded",false);
-    $(".btn").click(function () {
-        var val = $(this).data('expanded');
-        $(this).data('expanded', !val);
-        $('p', this).html(val ? "Read More" : "Read Less ");
-        $(".more",$(this).closest('.container')).animate({
-            height: val ? '90' : "300"
-        });
-    });
-});
-});//]]> 
-
-</script>
-
-
-
-
-
-
-
-
-
-</html> 
+</html>

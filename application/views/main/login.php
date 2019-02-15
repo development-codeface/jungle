@@ -17,7 +17,7 @@
           	<h3>Sign In Using Your Registered Emailid</h3>
           	
           	
-           <form method="post" action="<?php echo base_url();?>user" name="login_form" id="login_form">
+           <form method="post" action="user" name="login_form" id="login_form">
         	<div class="row">
         		<div class="col-md-8 col-md-offset-2">
         			
@@ -187,7 +187,7 @@
         <div class="modal-body login_form">
         	
         	<br>
-        	<form method="post" action="<?php echo base_url();?>user" name="forgot_form" id="forgot_form">
+        	<form method="post" action="user" name="forgot_form" id="forgot_form">
         	<div class="row">
         		<div class="col-md-8 col-md-offset-2">
         			<div id="email_sent"></div>

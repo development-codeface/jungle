@@ -79,7 +79,7 @@ $('#register_form').submit(function(event) {
 	
 	$.ajax({
 		type : "POST",
-		url : baseurl + "registration/register",
+		url : "registration/register",
 		data : dataString,
 		async : false,
 		success : function(data) {
@@ -104,7 +104,7 @@ $('#register_form').submit(function(event) {
 				}
 				else
 				{
-					window.location = baseurl + 'user';
+					window.location = 'user';
 				}
 			}
 		}
